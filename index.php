@@ -44,9 +44,13 @@ $ringbaScriptPrimary = "b-js.ringba.com/CAb49cfcb9181147da91c79a5b41b45130"
         <p class="my-2 md:text-xl  px-50 md:px-60 text-left p-2">
             Millions of Seniors are rushing the hotlines to secure their 2024 Medicare Advantage benefit.
         </p>
-        <p class="my-2 md:text-xl  px-50 md:px-60 text-left p-2">
-            <strong>Benefit plans and options are always changing</strong> so speak to our licensed sales agents and choose the rigth Medicare Advantage plant before enrollment ends!.
+        <p class=" font-bold my-2 md:text-xl  px-50 md:px-60 text-left ">
+            Benefit plans and options are always changing
         </p>
+        <p class=" md:text-xl  px-50 md:px-60 text-left ">
+            so speak to our licensed sales agents and choose the rigth Medicare Advantage plant before enrollment ends!.
+        </p>
+
         <div>
             <div id="display1" class="md:mt-8 mt-4">
                 <h3 class="font-bold text-center md:text-4xl text-3xl my-8">
